@@ -9,3 +9,4 @@ bindings/*
 !src/
 src/*
 !src/scanner.c
+!src/parser.c
